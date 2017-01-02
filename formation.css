@@ -1,0 +1,53 @@
+body {
+  background-image: url("img/back.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+h3 {
+  text-align: center;
+  text-decoration: underline;
+
+}
+#beweb img {
+
+  image-resolution: 62dpi;
+          width: 10%;
+
+
+          margin: 11%;
+          text-align: center;
+          filter: contrast(0.2);
+          transition: ease 0.5s;
+}
+
+#beweb img:hover {
+  filter: contrast(1);
+  transition: ease 0.5s;
+}
+
+#liste {
+font-size: 15px;
+margin: 30 px;
+
+}
+p{
+  font-size: 17px;
+  margin: 20px;
+}
+
+#imgbeweb {
+
+  text-align: center;
+}
+
+h4 {
+
+  text-align: center;
+  text-decoration: underline;
+}
+
+#form {
+text-align: center;
+
+}

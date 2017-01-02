@@ -1,0 +1,41 @@
+#logo img {
+
+  image-resolution: 72dpi;
+          width: 10%;
+          height: auto;
+          margin: 11%;
+          text-align: center;
+          filter: contrast(0.2);
+          transition: ease 0.5s;
+}
+
+p {
+
+  text-align: center;
+
+
+}
+
+h3 {
+text-align: center;
+
+}
+
+body {
+background-image: url("img/back.jpg");
+background-size: cover;
+background-repeat: repeat;
+
+}
+
+footer {
+  font-size: 11px;
+}
+
+
+
+#logo img:hover {
+
+  filter: contrast(1);
+  transition: ease 0.5s;
+}

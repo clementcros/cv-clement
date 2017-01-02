@@ -1,0 +1,39 @@
+body {
+background-image: url("img/back.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+
+h3 {
+text-align: center;
+
+}
+
+#preambule {
+text-align: center;
+font-size: 18px;
+}
+
+
+#para {
+  text-align: center;
+  margin: 10px;
+  font-size: 18px;
+
+
+}
+
+
+#liste ul li {
+text-decoration: none;
+list-style: none;
+font-size: 18px;
+
+}
+
+
+#moi {
+text-align: center;
+}

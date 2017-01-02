@@ -1,0 +1,57 @@
+
+img {
+
+  image-resolution: 500dpi;
+          width: 28%;
+          height: auto;
+          margin: 11%;
+          text-align: center;
+
+}
+#idem {
+  float: left;
+  top: 5%;
+  width:  50%;
+  position: relative;
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+  top: 5%;
+  position: relative;
+}
+
+#jm {
+  float: right;
+  width: 50%;
+  text-align: center;
+  position: right relative;;
+}
+
+
+
+
+body {
+  background-image: url("img/back.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#aes {
+
+  text-align: center;
+  width: 40%;
+  float: left;
+  position: relative;;
+}
+
+#beweb {
+  float: left;
+  text-align: center;
+}
+
+#pro {
+
+  text-align: center;
+}
